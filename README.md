@@ -80,4 +80,4 @@ to actually build the addon.
 
 You should end-up with a zip-file in folder
 
-    target/addons/11.0/${PROJECT}/fftw3f/fftw3f-${ADDON_VERSION}.zip
+    target/addons/${VERSION}/${PROJECT}/${ARCH}/fftw3f/fftw3f-${ADDON_VERSION}.zip
